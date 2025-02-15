@@ -1,0 +1,7 @@
+{
+  "home": {
+    "hello": "Hi!",
+    "title": "Your selected language is:",
+    "greet": "This is a greet in your selected language 😙"
+  }
+}
