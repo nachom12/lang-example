@@ -2,6 +2,10 @@
   "home": {
     "hello": "Hola!",
     "title": "Tu idioma seleccionado es:",
-    "greet": "Esto es un saludo en tu idioma seleccionado 😙"
+    "greet": "Esto es un saludo en tu idioma seleccionado 😙",
+    "socialMedia": {
+      "cardBody": "Links de contacto: 👇",
+      "sourceCode": "Visita el código en GitHub:"
+    }
   }
 }
